@@ -1,4 +1,4 @@
 # MCU_ESP8266_IoT
-一种基于ESP8266和MQTT连接阿里云的STM32F103C8T6解决方案
+一种基于标准库的STM32F103C8T6通过ESP8266模块以MQTT协议连接阿里云的MCU解决方案
 
 
